@@ -1,5 +1,5 @@
 <p>O projeto trata-se de um site de produto para Astronauta.<br>
-Com estilização minimalista, apresenta um breve texto da descrição do prouto, background temático e um campo para inserir o email para receber as últimas informações do produto.<br><br>
+Com estilização minimalista, apresenta um breve texto da descrição do produto, background temático e um campo para inserir o email para receber as últimas informações do produto.<br><br>
   
 É uma das atividades do curso <b>DevClub</b>. Foram utilizados as ferramentas HTML e CSS.
 <br>
